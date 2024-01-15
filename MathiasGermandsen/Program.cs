@@ -11,15 +11,15 @@
 //Console.WriteLine("true");
 //Console.WriteLine(true);
 
-string firstName;
-firstName = "Bob";
-Console.WriteLine(firstName);
-firstName = "Liem";
-Console.WriteLine(firstName);
-firstName = "Isabella";
-Console.WriteLine(firstName);
-firstName = "Yasmin";
-Console.WriteLine(firstName);
+//string firstName;
+//firstName = "Bob";
+//Console.WriteLine(firstName);
+//firstName = "Liem";
+//Console.WriteLine(firstName);
+//firstName = "Isabella";
+//Console.WriteLine(firstName);
+//firstName = "Yasmin";
+//Console.WriteLine(firstName);
 //char userOption;
 
 //int gameScore;
@@ -27,6 +27,11 @@ Console.WriteLine(firstName);
 //decimal particlesPerMillion;
 
 //bool processedCustomer;
+
+
+var message = "hello world!";
+
+message = 10.703m;
 
 
 
