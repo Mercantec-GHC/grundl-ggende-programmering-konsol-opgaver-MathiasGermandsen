@@ -49,7 +49,18 @@
 //Console.WriteLine("Invoice: 1022\t\tComplete!");
 //Console.WriteLine("\nOutput Directory:\t");
 
+//Console.WriteLine(@"    c:\source\repos    
+//        (this is where your code goes)");
 
+
+//Console.WriteLine(@"c:\invoices");
+
+
+//Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
+
+string firstName = "Bob";
+string message = "Hello " + firstName;
+Console.WriteLine(message);
 
 
 string username = Console.ReadLine();
