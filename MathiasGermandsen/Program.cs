@@ -28,12 +28,17 @@
 
 //bool processedCustomer;
 
-string firstname = "bob";
-int messages = 3;
-double temp = 34.4;
+//string firstname = "bob";
+//int messages = 3;
+//double temp = 34.4;
 
 
-Console.Write("Hello, " + firstname + " you have " + messages + " in your inbox. the temperature is " + temp + " celsius");
+//Console.Write("Hello, " + firstname + " you have " + messages + " in your inbox. the temperature is " + temp + " celsius");
+
+//Console.WriteLine("Hello\nWorld!");
+//Console.WriteLine("Hello\tWorld!");
+
+
 
 
 
