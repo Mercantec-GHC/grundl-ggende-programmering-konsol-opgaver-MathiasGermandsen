@@ -1,4 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Congratulations!");
-Console.Write(" ");
-Console.Write("You wrote your first code");
+﻿//Console.WriteLine('b');
+
+//Console.WriteLine(12.39816m);
+
+//Console.WriteLine(true);
+//Console.WriteLine(false);
+
+Console.WriteLine("123");
+Console.WriteLine(123);
+
+Console.WriteLine("true");
+Console.WriteLine(true);
+
+
+
+string username = Console.ReadLine();
