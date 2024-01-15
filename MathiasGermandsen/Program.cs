@@ -58,9 +58,57 @@
 
 //Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
 
-string firstName = "Bob";
-string message = "Hello " + firstName;
-Console.WriteLine(message);
+//string firstName = "Bob";
+//string message = "Hello " + firstName;
+//Console.WriteLine(message);
 
+//string firstName = "Bob";
+//string greeting = "Hello";
+//string message = greeting + " " + firstName + "!";
+//Console.WriteLine(message);
+
+//string firstName = "Bob";
+//string greeting = "Hello";
+//Console.WriteLine(greeting + " " + firstName + "!");
+
+//string message = greeting + " " + firstName + "!";
+
+//int version = 11;
+//string updateText = "Update to Windows";
+//Console.WriteLine($"{updateText} {version}!");
+
+//string projectName = "First-Project";
+//Console.WriteLine($@"C:\Output\{projectName}\Data");
+
+//string projectName = "ACME";
+//string englishLocation = $@"c:\Exercise\{projectName}\data.txt";
+//Console.WriteLine($"View English output:\n\t\t{englishLocation}\n");
+
+//string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+//string russianLocation = $@"c:\Exercise\{projectName}\ru-RU\data.txt";
+//Console.WriteLine($"{russianMessage}:\n\t\t{russianLocation}\n");
+
+
+//int firstNumber = 12;
+//int secondNumber = 7;
+//Console.WriteLine(firstNumber + secondNumber);
+
+//string firstName = "Bob";
+//int widgetsSold = 7;
+//Console.WriteLine(firstName + " sold " + widgetsSold + " widgets.");
+
+//string firstName = "Bob";
+//int widgetsSold = 7;
+//Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
+
+int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+int quotient = 7 / 5;
+
+Console.WriteLine("Sum: " + sum);
+Console.WriteLine("Difference: " + difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quotient: " + quotient);
 
 string username = Console.ReadLine();
