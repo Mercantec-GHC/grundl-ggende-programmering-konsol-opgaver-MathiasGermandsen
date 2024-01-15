@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mgerm\\Desktop\\gitrepo\\MathiasGermandsen\\MathiasGermandsen.csproj",
+      "projectUniqueName": "C:\\Users\\mgerm\\Downloads\\gitrepo\\MathiasGermandsen\\MathiasGermandsen.csproj",
       "projectName": "MathiasGermandsen",
-      "projectPath": "C:\\Users\\mgerm\\Desktop\\gitrepo\\MathiasGermandsen\\MathiasGermandsen.csproj",
+      "projectPath": "C:\\Users\\mgerm\\Downloads\\gitrepo\\MathiasGermandsen\\MathiasGermandsen.csproj",
       "packagesPath": "C:\\Users\\mgerm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mgerm\\Desktop\\gitrepo\\MathiasGermandsen\\obj\\",
+      "outputPath": "C:\\Users\\mgerm\\Downloads\\gitrepo\\MathiasGermandsen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mgerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
