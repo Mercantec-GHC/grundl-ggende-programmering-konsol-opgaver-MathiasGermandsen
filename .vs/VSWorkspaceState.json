@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MathiasGermandsen"
+    "\\Calculate GPA",
+    "\\MathiasGermandsen",
+    "\\MathiasGermandsen\\Pro",
+    "\\Student grades"
   ],
-  "SelectedNode": "\\MathiasGermandsen\\Program.cs",
+  "SelectedNode": "\\Calculate GPA\\Calculate GPA.csproj",
   "PreviewInSolutionExplorer": false
 }
