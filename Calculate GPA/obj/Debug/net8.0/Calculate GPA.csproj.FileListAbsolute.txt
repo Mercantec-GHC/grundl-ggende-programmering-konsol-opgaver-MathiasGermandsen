@@ -1,0 +1,15 @@
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\bin\Debug\net8.0\Calculate GPA.exe
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\bin\Debug\net8.0\Calculate GPA.deps.json
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\bin\Debug\net8.0\Calculate GPA.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\bin\Debug\net8.0\Calculate GPA.dll
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\bin\Debug\net8.0\Calculate GPA.pdb
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.dll
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\refint\Calculate GPA.dll
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.pdb
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\Calculate GPA.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\Calculate GPA\obj\Debug\net8.0\ref\Calculate GPA.dll
