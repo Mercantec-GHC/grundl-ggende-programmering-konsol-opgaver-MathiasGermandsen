@@ -1,0 +1,15 @@
+C:\Users\mgerm\Downloads\gitrepo\porject\bin\Debug\net8.0\porject.exe
+C:\Users\mgerm\Downloads\gitrepo\porject\bin\Debug\net8.0\porject.deps.json
+C:\Users\mgerm\Downloads\gitrepo\porject\bin\Debug\net8.0\porject.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\porject\bin\Debug\net8.0\porject.dll
+C:\Users\mgerm\Downloads\gitrepo\porject\bin\Debug\net8.0\porject.pdb
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.dll
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\refint\porject.dll
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.pdb
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\porject.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\porject\obj\Debug\net8.0\ref\porject.dll
