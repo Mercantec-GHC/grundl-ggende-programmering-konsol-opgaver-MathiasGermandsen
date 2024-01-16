@@ -29,14 +29,19 @@ int currentAssignments = 5;
 // int logan5 = 96;
 
 int sophiaSum = 0;
-int andrewSum = 0;
-int emmaSum = 0;
-int loganSum = 0;
+// int andrewSum = 0;
+// int emmaSum = 0;
+// int loganSum = 0;
 
 decimal sophiaScore;
-decimal andrewScore;
-decimal emmaScore;
-decimal loganScore;
+// decimal andrewScore;
+// decimal emmaScore;
+// decimal loganScore;
+
+foreach(int score in sophiaScores)
+{
+    sophiaSum += score;
+}
 
 sophiaSum = sophia1 + sophia2 + sophia3 + sophia4 + sophia5;
 andrewSum = andrew1 + andrew2 + andrew3 + andrew4 + andrew5;
