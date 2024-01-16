@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Student-cal-2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+583e0898deb0e4eb8bb25e3b14bdd62dc0e3f09e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c34392da3a29e29da893b660d5b91fef209ade39")]
 [assembly: System.Reflection.AssemblyProductAttribute("Student-cal-2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Student-cal-2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
