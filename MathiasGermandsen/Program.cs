@@ -101,14 +101,37 @@
 //int widgetsSold = 7;
 //Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
 
-int sum = 7 + 5;
-int difference = 7 - 5;
-int product = 7 * 5;
-int quotient = 7 / 5;
+//int value = 1;
 
-Console.WriteLine("Sum: " + sum);
-Console.WriteLine("Difference: " + difference);
-Console.WriteLine("Product: " + product);
-Console.WriteLine("Quotient: " + quotient);
+//value = value + 1;
+//Console.WriteLine("First increment: " + value);
+
+//value += 1;
+//Console.WriteLine("Second increment: " + value);
+
+//value++;
+//Console.WriteLine("Third increment: " + value);
+
+//value = value - 1;
+//Console.WriteLine("First decrement: " + value);
+
+//value -= 1;
+//Console.WriteLine("Second decrement: " + value);
+
+//value--;
+//Console.WriteLine("Third decrement: " + value);
+
+//int value3 = 1;
+//value3++;
+//Console.WriteLine("First: " + value3);
+//Console.WriteLine($"Second: {value3++}");
+//Console.WriteLine("Third: " + value3);
+//Console.WriteLine("Fourth: " + (++value3));
+
+// Calculate Celsius given the current Fahrentheit temperature
+
+//int fahrenheit = 94;
+//decimal celsius  = (fahrenheit - 32m) * (5m / 9);
+//Console.WriteLine($"The temperature is {celsius} degrees celsius ")
 
 string username = Console.ReadLine();
