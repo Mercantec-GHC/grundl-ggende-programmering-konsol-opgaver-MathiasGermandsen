@@ -1,0 +1,15 @@
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\bin\Debug\net8.0\CodeBlocks.exe
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\bin\Debug\net8.0\CodeBlocks.deps.json
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\bin\Debug\net8.0\CodeBlocks.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\bin\Debug\net8.0\CodeBlocks.dll
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\bin\Debug\net8.0\CodeBlocks.pdb
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.dll
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\refint\CodeBlocks.dll
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.pdb
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\CodeBlocks.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\CodeBlocks\obj\Debug\net8.0\ref\CodeBlocks.dll
