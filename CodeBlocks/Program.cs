@@ -1,25 +1,51 @@
-﻿int employeeLevel = 201;
-string employeeName = "John Smith";
+﻿// SKU = Stock Keeping Unit. 
+// SKU value format: <product #>-<2-letter color code>-<size code>
+string sku = "01-MN-L";
 
-string title = "";
+string[] product = sku.Split('-');
 
-switch (employeeLevel)
+string type = "";
+string color = "";
+string size = "";
+
+if (product[0] == "01")
 {
-    case 100:
-        title = "Junior Associate";
-        break;
-    case 200:
-        title = "Senior Associate";
-        break;
-    case 300:
-        title = "Manager";
-        break;
-    case 400:
-        title = "Senior Manager";
-        break;
-    default:
-        title = "Associate";
-        break;
+    type = "Sweat shirt";
+} else if (product[0] == "02")
+{
+    type = "T-Shirt";
+} else if (product[0] == "03")
+{
+    type = "Sweat pants";
+}
+else
+{
+    type = "Other";
 }
 
-Console.WriteLine($"{employeeName}, {title}");
+if (product[1] == "BL")
+{
+    color = "Black";
+} else if (product[1] == "MN")
+{
+    color = "Maroon";
+} else
+{
+    color = "White";
+}
+
+if (product[2] == "S")
+{
+    size = "Small";
+} else if (product[2] == "M")
+{
+    size = "Medium";
+} else if (product[2] == "L")
+{
+    size = "Large";
+} else
+{
+    size = "One Size Fits All";
+}
+
+Console.WriteLine($"Product: {size} {color} {type}");
