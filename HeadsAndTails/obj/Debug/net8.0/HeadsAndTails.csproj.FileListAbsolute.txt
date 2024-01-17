@@ -1,0 +1,15 @@
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\bin\Debug\net8.0\HeadsAndTails.exe
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\bin\Debug\net8.0\HeadsAndTails.deps.json
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\bin\Debug\net8.0\HeadsAndTails.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\bin\Debug\net8.0\HeadsAndTails.dll
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\bin\Debug\net8.0\HeadsAndTails.pdb
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.dll
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\refint\HeadsAndTails.dll
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.pdb
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\HeadsAndTails.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\HeadsAndTails\obj\Debug\net8.0\ref\HeadsAndTails.dll
