@@ -1,0 +1,15 @@
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\Part3\bin\Debug\net8.0\Part3.exe
+C:\Users\mgerm\Downloads\gitrepo\Part3\bin\Debug\net8.0\Part3.deps.json
+C:\Users\mgerm\Downloads\gitrepo\Part3\bin\Debug\net8.0\Part3.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\Part3\bin\Debug\net8.0\Part3.dll
+C:\Users\mgerm\Downloads\gitrepo\Part3\bin\Debug\net8.0\Part3.pdb
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.dll
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\refint\Part3.dll
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.pdb
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\Part3.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\Part3\obj\Debug\net8.0\ref\Part3.dll
