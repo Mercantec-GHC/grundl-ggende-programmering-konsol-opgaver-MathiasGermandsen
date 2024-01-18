@@ -1,0 +1,15 @@
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\bin\Debug\net8.0\plan a petting zoo.exe
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\bin\Debug\net8.0\plan a petting zoo.deps.json
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\bin\Debug\net8.0\plan a petting zoo.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\bin\Debug\net8.0\plan a petting zoo.dll
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\bin\Debug\net8.0\plan a petting zoo.pdb
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.dll
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\refint\plan a petting zoo.dll
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.pdb
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\plan a petting zoo.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\plan a petting zoo\obj\Debug\net8.0\ref\plan a petting zoo.dll

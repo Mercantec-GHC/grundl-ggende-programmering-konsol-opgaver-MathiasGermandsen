@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "plan a petting zoo/1.0.0": {
+        "runtime": {
+          "plan a petting zoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "plan a petting zoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
