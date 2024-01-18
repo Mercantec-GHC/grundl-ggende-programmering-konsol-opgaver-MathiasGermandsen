@@ -3,3 +3,13 @@ C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.AssemblyInfoIn
 C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.AssemblyInfo.cs
 C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.csproj.CoreCompileInputs.cache
 C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\pet app\bin\Debug\net8.0\pet app.exe
+C:\Users\mgerm\Downloads\gitrepo\pet app\bin\Debug\net8.0\pet app.deps.json
+C:\Users\mgerm\Downloads\gitrepo\pet app\bin\Debug\net8.0\pet app.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\pet app\bin\Debug\net8.0\pet app.dll
+C:\Users\mgerm\Downloads\gitrepo\pet app\bin\Debug\net8.0\pet app.pdb
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.dll
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\refint\pet app.dll
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.pdb
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\ref\pet app.dll
