@@ -1,0 +1,15 @@
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.sourcelink.json
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\bin\Debug\net8.0\part 5 methods.exe
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\bin\Debug\net8.0\part 5 methods.deps.json
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\bin\Debug\net8.0\part 5 methods.runtimeconfig.json
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\bin\Debug\net8.0\part 5 methods.dll
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\bin\Debug\net8.0\part 5 methods.pdb
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.dll
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\refint\part 5 methods.dll
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.pdb
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\part 5 methods.genruntimeconfig.cache
+C:\Users\mgerm\Downloads\gitrepo\part 5 methods\obj\Debug\net8.0\ref\part 5 methods.dll
