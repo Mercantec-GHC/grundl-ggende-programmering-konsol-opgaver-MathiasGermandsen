@@ -1,0 +1,5 @@
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.AssemblyInfoInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.AssemblyInfo.cs
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.csproj.CoreCompileInputs.cache
+C:\Users\mgerm\Downloads\gitrepo\pet app\obj\Debug\net8.0\pet app.sourcelink.json
