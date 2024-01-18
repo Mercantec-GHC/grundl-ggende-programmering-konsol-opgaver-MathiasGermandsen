@@ -83,3 +83,9 @@ for (int i = 0; i < maxPets; i++)
     }
     ourAnimals[i, 6] = $"Suggested Donation: {decimalDonation:C2}";
 }
+
+do
+{
+    readResult = Console.ReadLine();
+
+} while (menuSelection != "exit");
