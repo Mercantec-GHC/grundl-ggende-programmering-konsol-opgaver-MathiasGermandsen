@@ -1,22 +1,16 @@
-﻿// SayHello();
-// void SayHello()
-// {
-//     Console.WriteLine("Hello");
-// }
+﻿Console.WriteLine("Generating random numbers:");
+DisplayRandomNumbers();
 
-int[] a = { 1, 2, 3, 4, 5 };
-
-Console.WriteLine("contents of Array:");
-PrintArray();
-
-void PrintArray()
+void DisplayRandomNumbers() 
 {
-    foreach (int x in a)
+    Random random = new Random();
+
+    for (int i = 0; i < 5; i++) 
     {
-        Console.WriteLine($"  {x}");
+        Console.Write($"{random.Next(1, 100)} ");
     }
+
     Console.WriteLine();
 }
-
 
 Console.ReadLine();
