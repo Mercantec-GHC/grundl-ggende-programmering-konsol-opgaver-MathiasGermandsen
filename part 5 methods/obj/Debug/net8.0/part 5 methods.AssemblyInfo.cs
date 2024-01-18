@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("part 5 methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bea7bc00f3d611fa388d4ddf4960d833ccfcef0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88bb9e65adf1eb89d53d0a823ca6c6f2c41c6766")]
 [assembly: System.Reflection.AssemblyProductAttribute("part 5 methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("part 5 methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
