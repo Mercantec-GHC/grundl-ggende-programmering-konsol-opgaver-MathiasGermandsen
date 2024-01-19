@@ -113,7 +113,33 @@ namespace HangmanAppTest
                 "træ", "busk", "blomst", "græs", "blad", "stang", "gren", "top", "rod",
                 "bjerg", "bakke", "dal", "flod", "sø", "hav", "strand", "kyst", "ø", "vandfald"
             };
+            int index = random.Next(wordList.Count);
+            string randomWord = wordList[index];
 
+            foreach (char x in randomWord)
+            {
+                Console.Write("_ ");
+            }
+
+            int LengthOfWordToGuess = randomWord.Length;
+            int AmountOfTimeWrong = 0;
+            wordList<char> currentLetterGuessed = new wordList<char>();
+            int currentLettersRight = 0;
+
+            while (AmountOfTimeWrong != 6 && currentLettersRight != LengthOfWordToGuess)
+            {
+                Console.Write("\nLetters Guessed So far: ");
+                foreach (char letter in currentLetterGuessed)
+                {
+                    Console.Write(letter + " ");
+                }
+                //Ask user for inputs
+                Console.Write("\nGuess a letter: ");
+                char letterGuessed = Console.ReadLine()[0];
+                //We check if the letter has already been guessed
+
+                if(currentLetterGuessed)
+            }
         }
 
     }
