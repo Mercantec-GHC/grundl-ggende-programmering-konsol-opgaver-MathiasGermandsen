@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using static System.Random;
 using System.Text;
 
-namespace HangmanAppTest
+namespace Hangman
 {
     internal class Program
     {
