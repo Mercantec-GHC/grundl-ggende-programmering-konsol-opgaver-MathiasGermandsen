@@ -67,11 +67,39 @@ namespace HangmanAppTest
             }
         }
 
-        private static int PrintWord(List<char>gueesedLettters, string randomWord)
+        private static int PrintWord(List<char> gueesedLettters, string randomWord)
         {
             int counter = 0;
             int rightLetters = 0;
             Console.Write("\r\n");
 
-            foreach
+            foreach (char c in randomWord)
+            {
+                if (gueesedLettters.Contains(c))
+                {
+                    Console.Write(c + " ");
+                    rightLetters++;
+                }
+                else
+                {
+                    Console.Write(" ");
+                }
+                counter++;
+            }
+            return rightLetters;
+        }
+
+        private static void printLines(string randomWord)
+        {
+            Console.Write("\r");
+            foreach (char c in randomWord)
+            {
+                Console.OutputEncoding = System.Text.Encoding.Unicode;
+                Console.Write("\u0305");
+            }
+        }
+
+        static void main(string[] args)
+        {
+            
         }
