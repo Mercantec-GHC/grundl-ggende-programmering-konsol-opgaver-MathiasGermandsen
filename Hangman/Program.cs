@@ -101,5 +101,20 @@ namespace HangmanAppTest
 
         static void main(string[] args)
         {
-            
+            Console.WriteLine("Welcome to Hangman :D");
+            Console.WriteLine("-----------------------");
+
+            Random random = new Random();
+            List<string> wordList = new List<string>()
+            {
+                "bil", "bus", "tog", "fly", "båd", "cykel", "motorcykel", "knallert", "traktor", "lastbil",
+                "hus", "lejlighed", "villa", "sommerhus", "garage", "trappe", "tag", "vindue", "dør",
+                "kat", "hund", "hamster", "fisk", "fugl", "edderkop", "orm", "snegl", "bille", "sommerfugl",
+                "træ", "busk", "blomst", "græs", "blad", "stang", "gren", "top", "rod",
+                "bjerg", "bakke", "dal", "flod", "sø", "hav", "strand", "kyst", "ø", "vandfald"
+            };
+
         }
+
+    }
+}
