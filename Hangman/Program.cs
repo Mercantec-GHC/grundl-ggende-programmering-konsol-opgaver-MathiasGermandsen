@@ -95,11 +95,11 @@ namespace HangmanAppTest
             foreach (char c in randomWord)
             {
                 Console.OutputEncoding = System.Text.Encoding.Unicode;
-                Console.Write("\u0305");
+                Console.Write("\u0305 ");
             }
         }
 
-        static void main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Hangman :D");
             Console.WriteLine("-----------------------");
@@ -138,8 +138,39 @@ namespace HangmanAppTest
                 char letterGuessed = Console.ReadLine()[0];
                 //We check if the letter has already been guessed
 
-                if(currentLetterGuessed)
+                if(currentLetterGuessed.Contains(letterGuessed))
+                {
+                    Console.Write("\r\nYou have already guessed that letter.");
+                    printHangman(AmountOfTimeWrong);
+                    currentLettersRight = PrintWord(currentLetterGuessed, randomWord);
+                    printLines(randomWord);
+                }
+                else
+                {
+                    //check if the letter is in the word
+                    bool right = false;
+                     for (int i = 0; i < randomWord.Length; i++) { if (letterGuessed == randomWord[i]) { right = true; } }
+
+                    if (right)
+                    {
+                        printHangman(AmountOfTimeWrong);
+                        currentLetterGuessed.Add(letterGuessed);
+                        currentLettersRight = PrintWord(currentLetterGuessed, randomWord);
+                        Console.Write("\r\n");
+                        printLines(randomWord);
+                    }
+                    else 
+                    {
+                        AmountOfTimeWrong++;
+                        currentLetterGuessed.Add(letterGuessed);
+                        printHangman(AmountOfTimeWrong);
+                        currentLettersRight = PrintWord(currentLetterGuessed, randomWord);
+                        Console.Write("\r\n");
+                        printLines(randomWord);
+                    }
+                }
             }
+            Console.WriteLine("\r\n The Game Is Now Over. Thank you for playing :D");
         }
 
     }
